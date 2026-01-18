@@ -36,6 +36,8 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Some of the commits were made by the username Vanta826. I had not realized that my other github account was synced up to this one, so I had to figure out how to fix that. Now it should show up as EricLerner. I hope this won't cause any issues with the submission.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
